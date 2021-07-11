@@ -1,5 +1,6 @@
 # Wine-Recommendar
-Wine Recommendation engine 
+Wine Recommendation engine
+
 1)Created Content Based Recommendation engine using Cosine Similarity by leveraging Wine Reviews.
 
 2)Performed Exploratory Data Analysis, Feature Engineering, Data visualisation using Seaborn and Matplotlib.
